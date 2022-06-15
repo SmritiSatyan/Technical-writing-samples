@@ -1,5 +1,5 @@
 # Technical-writing-samples
-# Link to some of my work published:
-Machine Learning articles- https://www.studytonight.com/profile.php?id=55378&show=article
+## Links to my published work
+[Machine Learning articles](https://www.studytonight.com/profile.php?uname=SmritiS&show=articles)
 
-Python articles- https://www.studytonight.com/profile?id=68475
+[Python articles](https://www.studytonight.com/profile.php?uname=SmritiSatyan&show=articles)
